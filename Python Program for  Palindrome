@@ -1,0 +1,7 @@
+#Palindrome
+n = input()
+print(n[::-1])
+if( n == n[::-1]):
+  print("It's a Palindrome")
+else:
+  print("Not a Palindrome")
