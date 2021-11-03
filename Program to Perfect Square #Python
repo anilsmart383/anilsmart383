@@ -1,0 +1,7 @@
+#Perfect Square
+n = int(input())
+for i in range(n):
+  if(i != 4):
+    print(i * i)
+  else:
+    print("")
