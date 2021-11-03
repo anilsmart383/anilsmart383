@@ -1,0 +1,8 @@
+#LeaderBoard in a Race...
+#input should be in Dict form
+#input example {time : 'name'} = {9.99 : 'anil' , 9.09 : 'kumar' , 9.00 : 'sam'}
+def race(*a):
+  sorted(a)
+  return (a)
+n = input({})
+race (n)
