@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anilkumar Telukuntla
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as Data Engineer and learning Data Science
 - 💞️ I’m looking to collaborate with challenging Projects / Jobs
 - 📫 How to reach me anilsmart383@gmail.com
 
